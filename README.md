@@ -64,4 +64,4 @@ bash camphish.sh
 <p>CamPhish is inspired by https://github.com/thelinuxchoice/ Big thanks to @thelinuxchoice</p>
 <p>هذا كل شيء مني، شكرا لك</p>
 
-#                                                                                                                                                                           والله أعلمُ بالـصـواب     
+#                                                                                                                                                                          
