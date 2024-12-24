@@ -68,9 +68,18 @@ bash camphish.sh
 <p><b>Version: 1.3:</b> Fix ngrok direct link</p>
  <p><b>Version: 1.5:</b> fix the heart of the woman i love</p>
 
-#### Follow my Ig @tell_hack <a href="">https://www.instagram.com/tell_hack</a>
+#### Follow my Ig @tell_hack </a>
+<a href="https://instagram.com/tell_hack" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
 <p>CamPhish is created to help in penetration testing and it's not responsible for any misuse or illegal purposes.</p>
-<p>CamPhish is inspired by https://github.com/thelinuxchoice/ Big thanks to @thelinuxchoice</p>
+<p>CamPhish is inspired By <div align="r">
+<a href="https://github.com/thelinuxchoice" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+
+  Big thanks to @thelinuxchoice
+</p>
 <p>هذا كل شيء مني، شكرا لك</p>
 
 #                                                                                                                                                                          
