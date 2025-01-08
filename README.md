@@ -14,7 +14,7 @@ Grab cam shots from target's phone front camera or PC webcam just sending a link
 <ul>
   <li>Festival Wishing</li>
   <li>Live YouTube TV</li>
-   <li>Online Meeting [Beta]</li>
+   <li>Online Meeting </li>
 </ul>
 <p>simply enter festival name or youtube's video ID</p>
 
