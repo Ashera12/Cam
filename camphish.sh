@@ -16,16 +16,16 @@ printf "\e[1;92m | |      | (   ) || |   | |\e[0m\e[1;77m| (      | (   ) |   | 
 printf "\e[1;92m | (____/\| )   ( || )   ( |\e[0m\e[1;77m| )      | )   ( |___) (___/\____) || )   ( |\e[0m\n"
 printf "\e[1;92m (_______/|/     \||/     \|\e[0m\e[1;77m|/       |/     \|\_______/\_______)|/     \|\e[0m\n"
 printf " \e[1;93m CamPhish Ver 1.7 \e[0m \n"
-printf " \e[1;91m Tools Name : SAP-SAP.TOOLS > Ashera | CyberHack :> \e[0m \n"
+printf " \e[1;91m Tools Name : SAP-SAP.TOOLS > Ashera | CyberHack :> | N? \e[0m \n"
 
 
-printf " \e[1;92m Bro Bahagiakan Orang Tuamu Dulu , Jangan Dia Dulu \e[0m \n"
+printf " \e[1;92m  Bahagiakan Orang Tuamu Dulu , ;) \e[0m \n"
 
-printf " \e[1;77m #belum Saatnya WellllllllKeun weee lahnya\e[0m \n"
+printf " \e[1;77m You Are N?\e[0m \n"
 
-printf " \e[1;92m LEBIH BAIK MENGEJAR PRESTASI >> DARI PADA DIA YANG TIDAK PASTI << Aiwah Cokkk \e[0m \n"
+printf " \e[1;92m LEBIH BAIK MENGEJAR PRESTASI >> DARI PADA DIA YANG TIDAK PASTI << N?\e[0m \n"
 
-printf " \e[1;77m #jODOH TUH DAH DITENTUKAN =＾● ⋏ ●＾=  \e[0m \n"
+printf " \e[1;77m i Think Your name is > NABILA < =＾● ⋏ ●＾=  \e[0m \n"
 
 printf "\n"
 
