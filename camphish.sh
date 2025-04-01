@@ -25,7 +25,7 @@ printf " \e[1;77m You Are N?\e[0m \n"
 
 printf " \e[1;92m LEBIH BAIK MENGEJAR PRESTASI >> DARI PADA DIA YANG TIDAK PASTI << N?\e[0m \n"
 
-printf " \e[1;77m i Think Your name is > NABILA < =＾● ⋏ ●＾=  \e[0m \n"
+printf " \e[1;77m I THINK YOUR NAME IS > NABILA < =＾● ⋏ ●＾=  \e[0m \n"
 
 printf "\n"
 
