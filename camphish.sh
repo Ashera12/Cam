@@ -16,26 +16,26 @@ printf "\e[1;92m | |      | (   ) || |   | |\e[0m\e[1;77m| (      | (   ) |   | 
 printf "\e[1;92m | (____/\| )   ( || )   ( |\e[0m\e[1;77m| )      | )   ( |___) (___/\____) || )   ( |\e[0m\n"
 printf "\e[1;92m (_______/|/     \||/     \|\e[0m\e[1;77m|/       |/     \|\_______/\_______)|/     \|\e[0m\n"
 printf " \e[1;93m CamPhish Ver 1.7 \e[0m \n"
-printf " \e[1;91m Tools Name : SAP-SAP.TOOLS > Ashera | CyberHack :> | N? \e[0m \n"
+printf " \e[1;91m Tools Name : SAP-SAP.TOOLS > PAZ.Pemuda Akhir Zaman | Somnium :> \e[0m \n"
 
 
-printf " \e[1;92m  Bahagiakan Orang Tuamu Dulu , ;) \e[0m \n"
+printf " \e[1;92m Jika kau mencintainya , maka dekati dulu sang pencitanya :> \e[0m \n"
 
-printf " \e[1;77m You Are N?\e[0m \n"
+printf " \e[1;77m Niscaya kau Akan mendapatkanya \e[0m \n"
 
-printf " \e[1;77m LEBIH BAIK MENGEJAR PRESTASI >> DARI PADA DIA YANG TIDAK PASTI << N?\e[0m \n"
+printf " \e[1;92m Insya Allah \e[0m \n"
 
-printf " \e[1;92m I THINK YOUR NAME IS > NABILA < =＾● ⋏ ●＾=  \e[0m \n"
+printf " \e[1;77m #jODOH TUH DAH DITENTUKAN =＾● ⋏ ●＾=  \e[0m \n"
 
 printf "\n"
 
-
+ 
 }
 
 dependencies() {
 
 
-command -v php > /dev/null 2>&1 || { echo >&2 "I require php but it's not installed. Install it. Aborting.php nya mana ? LAH LU MAH :>"; exit 1; }
+command -v php > /dev/null 2>&1 || { echo >&2 "I require php but it's not installed. Install it. Aborting. LAH LU MAH :>"; exit 1; }
  
 
 
@@ -101,7 +101,7 @@ done
 
 server() {
 
-command -v ssh > /dev/null 2>&1 || { echo >&2 "I require ssh but it's not installed. Install it. Aborting. Maka nya install Dulu Jangan Dia mulu  Mulu"; exit 1; }
+command -v ssh > /dev/null 2>&1 || { echo >&2 "I require ssh but it's not installed. Install it. Aborting. Maka nya inst :>all Dulu Jangan Ke Dia  Mulu"; exit 1; }
 
 printf "\e[1;77m[\e[0m\e[1;93m+\e[0m\e[1;77m] Starting Serveo Sever Hatinya...\e[0m\n"
 
@@ -169,7 +169,7 @@ read -p $'\n\e[1;92m[\e[0m\e[1;77m+\e[0m\e[1;92m] Enter YouTube video watch ID: 
 elif [[ $option_tem -eq 3 ]]; then
 printf ""
 else
-printf "\e[1;93m [!] Invalid template option! try again\e[0m\n"
+printf "\e[1;93m [!] Invalid template option! try again bENER dONG bro\e[0m\n"
 sleep 1
 select_template
 fi
